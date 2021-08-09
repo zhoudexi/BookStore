@@ -1,0 +1,38 @@
+
+*{
+	margin: 0 auto;
+}
+li{
+    padding: 2px;
+    display: inline;
+}
+a{
+	color: blue;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+}
+.head{
+	
+	height: 120px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: snow;
+}
+.headlead{
+	display: inline-block;
+	 position: relative;
+	 left: 167px;
+	 bottom: 50px;
+}
+.logo{
+    display: inline-block;
+	position: relative;
+	right: 167px;
+}
+
+
+
+
+
+

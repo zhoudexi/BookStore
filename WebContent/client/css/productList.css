@@ -1,0 +1,74 @@
+@charset "UTF-8";
+body.goods-list {
+	width: 100%;
+    background:snow;  
+    text-align:center;  
+}  
+
+.books{
+	width: 65%;
+	height: 470px;
+	margin: 10px auto 0px auto;
+	background: #fcfdef;
+	border-style: solid;
+	border-color:#cccccc;
+}
+.p2{
+	padding: 5px 5px;
+	text-align: left;
+	font-size: 16px;
+	border-bottom: solid  2px #c0c0c0;
+}
+
+.p1{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.books-td{
+	width: 300px;
+} 
+.books-td img {
+	width:115px;
+	height:155px;
+    background-color: white;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    padding: 6px;
+}
+
+.PLtable{
+	text-align: center;
+}
+.Cart{
+	position: relative;
+    width: 65%;
+   
+    margin: 0 auto;
+    padding: 10px;
+    background: #fcfdef;
+    border: 2px solid;
+    border-color: #cccccc;
+}
+.p3{
+	font-weight: bold;
+	padding: 10px 0;
+	width: 65%;
+	margin: 0 auto;
+	text-align: right;
+}
+.goods-info{
+	background: #e1ffe1;
+	border: solid 2px #cccccc;
+	width: 100%;
+}
+.goods-price{
+	background: #e1ffe1;
+	border: solid 2px #cccccc;
+	width: 100%;
+	margin-top: 20px;
+}
+#buy0,#buy1,#buy2,#buy3{
+	padding: 8px 8px;
+}

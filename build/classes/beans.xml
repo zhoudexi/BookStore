@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+	<bean id="ProductService" class="com.zdx.service.Impl.ProductServiceImpl"></bean>
+	<bean id="UserService" class="com.zdx.service.Impl.UserServiceImpl"></bean>
+
+   <bean id="ProductDao" class="com.zdx.dao.Impl.ProductDaoImpl"/>
+   <bean id="UserDao" class="com.zdx.dao.Impl.UserDaoImpl"/>
+</beans>

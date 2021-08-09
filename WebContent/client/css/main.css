@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+	/*背景颜色*/
+    background-color: papayawhip;
+}
+
+table{
+	width:700px;
+	margin-top: 10px;
+}
+#Email,#Username,#Password,#RePassword,#Phonemunber{
+    width: 220px;
+    height: 30px;
+    border: 1px solid #A4A4A4;
+    /* 设置边框为圆角 */
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+/*提示错误信息*/
+.error{
+    color:gray;
+}
+
+#btn-submit{
+    width: 140px;
+    height: 40px;
+}

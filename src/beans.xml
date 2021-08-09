@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+	<bean id="ProductService" class="com.sgy.service.Impl.ProductServiceImpl"></bean>
+	<bean id="UserService" class="com.sgy.service.Impl.UserServiceImpl"></bean>
+
+   <bean id="ProductDao" class="com.sgy.dao.Impl.ProductDaoImpl"/>
+   <bean id="UserDao" class="com.sgy.dao.Impl.UserDaoImpl"/>
+</beans>
